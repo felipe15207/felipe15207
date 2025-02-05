@@ -1,13 +1,12 @@
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /></td>
-    <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /></td>
-  </tr>
-</table>
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="30" align="center" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="30" align="center" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30" align="center" />
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" height="30" align="center" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="30" align="center" />
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="30" align="center" />
+</div>
+
 # 👋 Olá, seja bem-vindo(a)!
 
 ## 🖥️ Sobre mim  
